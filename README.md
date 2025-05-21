@@ -21,3 +21,8 @@ If you want to get output in a file use below one of the below commmands;
 ```
 ./run_log_monitor.sh logs.log > output.csv OR sh run_log_monitor.sh logs.log > output.csv
 ```
+## Future Improvements
+- I would like to use Python as it's much broader and has many ways to do the same thing. If the requirements get more complicated Python is better to handle the complexity 
+- Automate the script deployment using Ansible > Jenkins combination
+- For Cloud schedule a lambda to run
+- The documentation took quite some time as it's important to write in such a way that it's clear and easily understandable to people who know nothing about the programming
