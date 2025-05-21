@@ -17,3 +17,7 @@ There are four files;
 ```
 ./run_log_monitor.sh logs.log OR sh run_log_monitor.sh logs.log
 ```
+If you want to get output in a file use below one of the below commmands;
+```
+./run_log_monitor.sh logs.log > output.csv OR sh run_log_monitor.sh logs.log > output.csv
+```
